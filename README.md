@@ -4,6 +4,7 @@ I am currently an undergraduate student at University of Dhaka. I am eagar to le
 
 ## Skills and Experience
 
+[![My Skills](https://skillicons.dev/icons?i=c++,js,html,css,wasm)](https://skillicons.dev)
 
 Skills: C++ / JAVA / PYTHON / REACTJS / REACT / JS / HTML / CSS 
 
