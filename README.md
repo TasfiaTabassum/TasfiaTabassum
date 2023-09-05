@@ -4,9 +4,7 @@ I am currently an undergraduate student at University of Dhaka. I am eagar to le
 
 ## Skills and Experience
 
-[![My Skills](https://skillicons.dev/icons?i=c++,js,html,css,wasm)](https://skillicons.dev)
-
-Skills: C++ / JAVA / PYTHON / REACTJS / REACT / JS / HTML / CSS 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,firebase,git,linux,mongodb,vscode,eclipse,idea)](https://skillicons.dev)
 
 - 🔭 I’m currently working on an android weather app  
 - 🌱 I’m currently learning Flutter 
