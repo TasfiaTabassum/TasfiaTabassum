@@ -1,6 +1,9 @@
-### Hi there 👋, I'm Tasfia Tabassum
-#### Design and Development
-I'm Tasfia from Bangladesh. I am currently an undergraduate student at University of Dhaka. I am eagar to learn new things and continue to upgrade myself. I enjoy learning languages, frameworks as well as designing in general.
+# Hi there 👋, I'm Tasfia Tabassum
+
+I am currently an undergraduate student at University of Dhaka. I am eagar to learn new things and continue to upgrade myself. I enjoy learning languages, frameworks as well as designing in general.
+
+## Skills and Experience
+
 
 Skills: C++ / JAVA / PYTHON / REACTJS / REACT / JS / HTML / CSS 
 
