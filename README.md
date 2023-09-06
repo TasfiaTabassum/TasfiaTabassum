@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tasfia Tabassum
 
-I am currently an undergraduate student at University of Dhaka. I am eagar to learn new things and continue to upgrade myself. I enjoy learning languages, frameworks as well as designing in general.
+I am presently a third-year student at the University of Dhaka. I am eagar to learn new things and continue to upgrade myself. I enjoy learning languages, frameworks as well as designing in general.
 
 ## Skills and Experience
 
