@@ -3,7 +3,7 @@
 
  <p align="right">  <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752"> </p>
 
-I am presently a third-year student at the University of Dhaka. I am eagar to learn new things and continue to upgrade myself. I enjoy learning languages, frameworks as well as designing in general.
+I am presently a third-year student at the University of Dhaka. I am eager to learn new things and improve my skills. I enjoy learning languages, frameworks as well as designing in general.
 
 
 ## Skills and Experience
