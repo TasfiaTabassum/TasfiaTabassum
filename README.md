@@ -22,10 +22,10 @@ I am presently a third-year student at the University of Dhaka. I am eager to le
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TasfiaTabassum&show_icons=true&theme=tokyonight&hide_border=true)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tasfiatabassum&theme=tokyonight&hide_border=true" alt="tasfiatabassum" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TasfiaTabassum&theme=tokyonight&hide_border=true" alt="tasfiatabassum" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasfiatabassum&theme=tokyonight&hide_border=true&show_icons=true&locale=en&layout=compact" alt="tasfiatabassum" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TasfiaTabassum&theme=tokyonight&hide_border=true&show_icons=true&locale=en&layout=compact" alt="tasfiatabassum" /></p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TasfiaTabassum&theme=onedark)](https://github-profile-trophy.vercel.app/?username=TasfiaTabassum&theme=darkhub)
