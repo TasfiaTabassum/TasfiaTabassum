@@ -13,7 +13,7 @@ I am presently a third-year student at the University of Dhaka. I am eager to le
 - 🔭 I’m currently working on an android weather app  
 - 🌱 I’m currently learning Flutter 
 
-## connect with me 
+## Connect with me 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TasfiaTabassum)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tasfia-tabassum-8b71b119a/)  
 
