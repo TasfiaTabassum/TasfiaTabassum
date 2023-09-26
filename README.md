@@ -28,4 +28,4 @@ I am presently a third-year student at the University of Dhaka. I am eager to le
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TasfiaTabassum&theme=tokyonight&hide_border=true&show_icons=true&locale=en&layout=compact" alt="tasfiatabassum" /></p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TasfiaTabassum&theme=onedark)](https://github-profile-trophy.vercel.app/?username=TasfiaTabassum&theme=darkhub)
+
