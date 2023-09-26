@@ -8,7 +8,7 @@ I am presently a third-year student at the University of Dhaka. I am eager to le
 
 ## Skills and Experience
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,firebase,git,linux,mongodb,vscode,eclipse,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,firebase,git,linux,mongodb,vscode,eclipse,idea,androidstudio,git,github)](https://skillicons.dev)
 
 - 🔭 I’m currently working on an android weather app  
 - 🌱 I’m currently learning Flutter and Dart
