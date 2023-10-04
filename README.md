@@ -33,7 +33,9 @@ I am presently a third-year student at the University of Dhaka. I am eager to le
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> -->
 </p>
+
 <br>
+
 <p>
   <strong>Tools:</strong><br><br>
 <!--   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> -->
@@ -60,9 +62,14 @@ I am presently a third-year student at the University of Dhaka. I am eager to le
  
 </p>
 
+<br>
+<br>
+
 
 - 🔭 I’m currently working on an android weather app  
 - 🌱 I’m currently learning Flutter and Dart
+
+<br>
 
 ## Connect with me 
 <div id="badges">
@@ -76,6 +83,8 @@ I am presently a third-year student at the University of Dhaka. I am eager to le
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
+
+<br>
 
 ## My Stats 
 
