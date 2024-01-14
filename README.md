@@ -66,7 +66,7 @@ I am presently a third-year student at the University of Dhaka. I am eager to le
 <br>
 
 
-- 🔭 I’m currently working on an android weather app  
+- 🔭 I’m currently working on my problem solving skills.  
 - 🌱 I’m currently learning Flutter and Dart
 
 <br>
