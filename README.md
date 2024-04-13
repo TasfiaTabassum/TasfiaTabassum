@@ -92,7 +92,7 @@ I am presently a fourth-year student at the University of Dhaka. I am eager to l
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TasfiaTabassum&theme=tokyonight&hide_border=true" alt="tasfiatabassum" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TasfiaTabassum&theme=tokyonight&hide_border=true&show_icons=true&locale=en&layout=compact" alt="tasfiatabassum" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TasfiaTabassum&theme=tokyonight&hide_border=true&show_icons=true&locale=en&layout=compact" alt="TasfiaTabassum" /></p>
 
 
 
