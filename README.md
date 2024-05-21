@@ -39,8 +39,8 @@ I am presently a fourth-year student at the University of Dhaka. I am eager to l
 <p>
   <strong>Tools:</strong><br><br>
  
- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Webflow-FF3300?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+   <!-- <img src="https://img.shields.io/badge/Webflow-FF3300?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow" /> -->
  
 <!--   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> -->
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
