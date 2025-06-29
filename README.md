@@ -10,7 +10,7 @@ From building intelligent systems-like research-driven recommender models using 
 
 What makes me excited to work is creating digital experiences that don't just function but feels good to use. I want to turn complex ideas into genuinely helpful solutions. This is what I am passionate about really!
 
-Overall I am pretty chill person. I thrive in relaxed, positive environments. Fear not, since I also bring my own dose of positivity in your vicinity :3 I like to uphold my responsibilities to the best of my abilities. I am continuously learning, and relearning to be a better version of myself both in personal and professional life. So if you would like to contact with me, please feel free ૮ ˶ᵔ ᵕ ᵔ˶ ა
+Overall I am a pretty chill person. I thrive in relaxed, positive environments. Fear not, since I also bring my own dose of positivity in your vicinity :3 I like to uphold my responsibilities to the best of my abilities. I am continuously learning, and relearning to be a better version of myself both in personal and professional life. So if you would like to contact with me, please feel free ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
 <br>
 
