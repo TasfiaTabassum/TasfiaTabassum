@@ -6,7 +6,7 @@
 
 Hello Hello! I am a fresh graduate from University of Dhaka, Bangladesh. I like getting frustrated with tough problems and working my way through them. I love working with positive like-minded people. I believe in the saying "দশে মিলে করি কাজ হারি জিতি নাহি লাজ"
 
-From building intelligent systems-like research-driven recommender models using knowledge graphs and contrastive learning-to crafting user-centric web and mobile experiences with modern tools, I thrive at the intersection of creativity and code. More importantly, I am always open to learning more (\*´▽`\*)
+From building intelligent systems-like research-driven recommender models using knowledge graphs and contrastive learning-to crafting user-centric web and mobile experiences with modern tools, I thrive at the intersection of creativity and code. More importantly, I am always open to learning more   (\*´▽`\*)
 
 What makes me excited to work is creating digital experiences that don't just function but feels good to use. I want to turn complex ideas into genuinely helpful solutions. This is what I am passionate about really!
 
