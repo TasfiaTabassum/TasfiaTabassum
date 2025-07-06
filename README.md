@@ -107,23 +107,5 @@ Overall I am a pretty chill person. I thrive in relaxed, positive environments. 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TasfiaTabassum&theme=tokyonight&hide_border=true&show_icons=true&locale=en&layout=compact" alt="TasfiaTabassum" /></p>
 
-<br>
-<br>
-
-## 📈 GitHub Stats
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TasfiaTabassum&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TasfiaTabassum&theme=tokyonight&hide_border=true" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TasfiaTabassum&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 
